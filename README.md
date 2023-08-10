@@ -1,8 +1,8 @@
 ![Header](https://github.com/harshalpy/harshalpy/blob/main/.github/headers.png)
 
 # 💫 About Me: 
-<img align="right" alt="coding" width="350" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
-🔭 I’m currently working on EvastBot (Soon)<br>
+<img align="right" alt="coding" height="275" width="400" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
+🔭  I’m currently working on EvastBot (Soon)<br>
 🧑‍💻 I’m currently learning MERN Stack <br> 
 🫡 Passionate developer from India. <br> 
 
@@ -33,5 +33,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshalpy&theme=radical&hide_border=true)<br/>
 
 
-### ✍️  I will try to update Readme as soon as i learn new languages , frameworks , or any cool stuff .
+### ✍️  I will Try to update Readme as soon as I learn new Languages , Frameworks , or any Cool stuff .
 
