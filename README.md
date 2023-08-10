@@ -1,7 +1,7 @@
 ![Header](https://github.com/harshalpy/harshalpy/blob/main/.github/headers.png)
 
 # 💫 About Me: 
-<img align="right" alt="coding" height="275" width="400" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
+<img align="right" alt="coding" height="270" width="400" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
 🔭  I’m currently working on EvastBot (Soon)<br>
 🧑‍💻 I’m currently learning MERN Stack <br> 
 🫡 Passionate developer from India. <br> 
