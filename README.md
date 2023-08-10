@@ -1,7 +1,7 @@
 ![Header](https://github.com/harshalpy/harshalpy/blob/main/.github/headers.png)
 
 # 💫 About Me: 
-<img align="right" alt="coding" height="290" width="400" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
+<img align="right" alt="coding" height="290" width="450" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
 <p style="font-size:100px;"> • 🔭  I’m currently working on EvastBot (Soon)</p>
 <p style="font-size:100px;"> • 🧑‍💻 I’m currently learning MERN Stack</p>  
 <p style="font-size:100px;"> • 🫡 Passionate developer from India.</p>  
@@ -9,9 +9,9 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://discord.com/users/1138131772354351256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshal-waykole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/_.harshal.gg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://discord.com/users/1138131772354351256" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="harshaldiscord" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshal-waykole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshallinkdin" height="30" width="40" /></a>
+<a href="https://instagram.com/_.harshal.gg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshalinsta" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
