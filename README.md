@@ -2,9 +2,10 @@
 
 # 💫 About Me: 
 <img align="right" alt="coding" height="270" width="400" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
-🔭  I’m currently working on EvastBot (Soon)<br>
-🧑‍💻 I’m currently learning MERN Stack <br> 
-🫡 Passionate developer from India. <br> 
+<p style="color;font-size:100px;">🔭  I’m currently working on EvastBot (Soon)</p>
+<p style="color;font-size:100px;" >🧑‍💻 I’m currently learning MERN Stack</p>  
+<p style="color;font-size:100px;" >🫡 Passionate developer from India.</p>  
+
 
 # Connect with me:
 <p align="left">
