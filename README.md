@@ -1,4 +1,4 @@
-![Header](https://github.com/harshalpy/harshalpy/blob/main/.github/headers.jpg)
+![Header](https://github.com/harshalpy/harshalpy/blob/main/.github/headers.png)
 
 # 💫 About Me: 
 <img align="right" alt="coding" height="250" width="300" src="https://github.com/harshalpy/harshalpy/blob/main/.github/programmer.gif">
