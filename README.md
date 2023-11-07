@@ -31,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshalpy&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=harshalpy&show_icons=true&theme=radical)<br/>
 
 
 ### ✍️  I will Try to update Readme as soon as I learn new Languages , Frameworks , or any Cool stuff .
